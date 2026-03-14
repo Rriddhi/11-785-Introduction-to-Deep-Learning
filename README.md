@@ -1,6 +1,6 @@
 # 11-785 Introduction to Deep Learning (CMU)
 
-This repository contains course materials and student solutions for Carnegie Mellon University's 11-785 Introduction to Deep Learning. It includes assignment starter code, autograders, reference data, and working notebooks for common projects used in the class.
+This repository contains course materials and solutions for Carnegie Mellon University's 11-785 Introduction to Deep Learning. It includes assignment starter code, autograders, reference data, and working notebooks for common projects used in the class.
 
 **Contents**
 - `mlp-from-scratch/`: Homework 1 — implement a multilayer perceptron (MLP) from scratch. Includes autograder, reference weights, and helper scripts.
@@ -24,5 +24,3 @@ pip install -r cnn-from-scratch/requirements.txt
 **Notes**
 - Each assignment folder contains an `autograder` subfolder with unit tests and helper utilities used for grading.
 - Large binary/reference files required by autograders are included in the respective folders.
-
-If you'd like, I can expand each section with more detailed instructions, example commands, and expected outputs for each assignment.
